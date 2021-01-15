@@ -1,0 +1,14 @@
+{
+  "name": "arduino-hand",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "git@github.com:tara-s-r/arduino-hand.git",
+  "author": "tara-s-r <44852921+tara-s-r@users.noreply.github.com>",
+  "license": "AGPL",
+  "dependencies": {
+    "johnny-five": "^2.0.0",
+    "keypress": "^0.2.1",
+    "lodash": "^4.17.20",
+    "node-hid": "^2.1.1"
+  }
+}
